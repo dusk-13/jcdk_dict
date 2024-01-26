@@ -29,16 +29,19 @@
             "items": {
                 "type": "object",
                 "properties": {
-                    "episode": {
-                        "type": "string"
-                    },
                     "lines": {
                         "type": "array",
                         "items": {
                             "type": "string"
                         }
                     },
+                    "episode": {
+                        "type": "string"
+                    },
                     "title": {
+                        "type": "string"
+                    },
+                    "attribute": {
                         "type": "string"
                     }
                 },

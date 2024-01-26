@@ -1,5 +1,5 @@
 {
-    "$schema": "./schema",
+    "$schema": "./../schema",
     "title": "邪神ちゃんドロップキック(22)",
     "release": [
         "2023-12-12"
